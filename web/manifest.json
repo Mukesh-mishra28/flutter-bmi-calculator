@@ -1,11 +1,11 @@
 {
-    "name": "new_stateful_flutter_app",
-    "short_name": "new_stateful_flutter_app",
+    "name": "flutter_bmi_calculator",
+    "short_name": "flutter_bmi_calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A BMI Calculator.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

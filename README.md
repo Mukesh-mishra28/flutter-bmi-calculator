@@ -22,21 +22,13 @@ A clean and simple BMI Calculator app built using Flutter.
 
 ## Screenshots
 
-### Splash Screen
-![Splash Screen](assests/images/screenshots/splash.png)
-
-### Home Screen
-![Main Screen](assests/images/screenshots/main.png)
-
-### Home Screen
-![Main Validation Screen](assests/images/screenshots/main_validation.png)
-
-### Home Screen
-![Main Input Screen](assests/images/screenshots/main_input.png)
-
-### Result Screen
-![Result Screen](assests/images/screenshots/result.png)
-
+<p align="center">
+  <img src="assests/images/screenshots/splash.png" width="250" />
+  <img src="assests/images/screenshots/main.png" width="250" />
+ <img src="assests/images/screenshots/main_validation.png" width="400" />
+ <img src="assests/images/screenshots/main_input.png" width="400" />
+  <img src="assests/images/screenshots/result.png" width="400" />
+</p>
 
 ## Author
 Mukesh Mishra

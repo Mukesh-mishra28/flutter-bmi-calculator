@@ -1,4 +1,4 @@
-package com.example.new_stateful_flutter_app
+package com.example.flutter_bmi_calculator
 
 import io.flutter.embedding.android.FlutterActivity
 

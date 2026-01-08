@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:new_stateful_flutter_app/main.dart';
+import 'package:flutter_bmi_calculator/main.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
