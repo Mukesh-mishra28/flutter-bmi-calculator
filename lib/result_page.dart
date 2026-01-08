@@ -24,7 +24,7 @@ class _ResultPageState extends State<ResultPage> {
           },
         ),
         title: Text(
-          "BMI RESULT",
+          "BMI Result",
           style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
         ),
         centerTitle: true,

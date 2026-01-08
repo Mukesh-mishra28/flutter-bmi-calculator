@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter BMI Calculator',
       debugShowCheckedModeBanner: false,
       home: SplashPage(),
     );
@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Center(
           child: Text(
-            'BMI APP',
+            'BMI Calculator',
             style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
           ),
         ),
