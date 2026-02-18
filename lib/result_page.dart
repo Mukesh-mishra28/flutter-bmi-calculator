@@ -1,10 +1,17 @@
 import 'package:flutter/material.dart';
 
 class ResultPage extends StatefulWidget {
+  final String name;
   final String finalResult;
   final Color bgColor;
 
-  const ResultPage(this.finalResult, this.bgColor, {super.key});
+
+  const ResultPage(
+      this.name,
+      this.finalResult,
+      this.bgColor, {
+        super.key,
+      });
 
   @override
   State<ResultPage> createState() => _ResultPageState();
@@ -63,6 +70,17 @@ class _ResultPageState extends State<ResultPage> {
                   ),
 
                   const SizedBox(height: 16),
+
+                  Text(
+                    widget.name,
+                    style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.blue,
+                    ),
+                  ),
+
+                  SizedBox(height: 6),
 
                   Text(
                     "Your BMI Result",
